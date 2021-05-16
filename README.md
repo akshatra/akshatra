@@ -26,7 +26,7 @@
 
 
 </br>
-<h4> See Me @ https://akshatra.github.io/meetMe/ </h4>
+<h4> See Me @ https://akshatra.github.io/akshatra/ </h4>
 <!--
 **akshatra/akshatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
