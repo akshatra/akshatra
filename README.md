@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there, I'm Akshat Bhatt 👋             
+<img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="230">
+
+#### See Me @ https://akshatra.github.io/Meet-Me/
 
 <!--
 **akshatra/akshatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
