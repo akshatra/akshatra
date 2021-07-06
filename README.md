@@ -23,8 +23,8 @@
 [![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat-square&labelColor=black&logo=java&logoColor=-007396)](#)
 [![Spring Badge](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&labelColor=black&logo=spring&logoColor=-007396)](#)
 
-[![SQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![SQL Badge](https://img.shields.io/badge/MySQL-00000F?style=flat-square&labelColor=black&logo=mysql&logoColor=-007396)](#)
+[![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&labelColor=black&logo=mongodb&logoColor=-007396 )](#)
 
 
 
